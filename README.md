@@ -2,6 +2,7 @@
 
 **Aluno:** Matheus Larré  
 **Curso:** Análise e Desenvolvimento de Sistemas (ADS) - CESAR School  
+**Disciplina:** Programação Imperativa e Funcional  
 **Professor:** Renan Costa Alencar  
 
 ## 📌 Visão Geral
