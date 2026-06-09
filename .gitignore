@@ -1,0 +1,29 @@
+# Executáveis e binários
+*.exe
+*.out
+*.app
+atividade_pif.exe
+
+# Objetos e bibliotecas
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+
+# Pastas de Debug/Build
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+*.dSYM/
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
