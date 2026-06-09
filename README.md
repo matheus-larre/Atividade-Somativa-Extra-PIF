@@ -51,4 +51,4 @@ Para executar:
 ```
 
 ---
-*Projeto desenvolvido para fins acadêmicos na CESAR School.*
+*Desenvolvido para fins acadêmicos.*
